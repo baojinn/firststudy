@@ -1,0 +1,16 @@
+# DSH sandbox permission-repair artifacts (temporary, machine-local)
+.acl-recovery/
+
+# OS cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp
+*.log
+*.tmp
