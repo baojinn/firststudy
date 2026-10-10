@@ -1,6 +1,6 @@
-# git
+# firststudy
 
-Private repository initialized from the local folder `新建文件夹`.
+Public repository — initialized from a local folder.
 
 ## Status
 
